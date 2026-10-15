@@ -1,0 +1,21 @@
+ID,Fecha,Producto,Categoria,Ciudad,Cantidad,Precio,Total
+1,2026-01-05,Portátil,Tecnología,Montería,2,2500000,5000000
+2,2026-01-08,Mouse,Tecnología,Sincelejo,5,45000,225000
+3,2026-01-12,Teclado,Tecnología,Montería,,85000,85000
+4,2026-01-15,Monitor,Tecnología,Cartagena,2,, 
+5,2026-01-20,Silla,Muebles,Montería,3,420000,1260000
+6,2026-01-25,Escritorio,Muebles,,1,680000,680000
+7,2026-02-02,Audífonos,Tecnología,Sincelejo,4,120000,480000
+8,2026-02-07,Cámara,Tecnología,Montería,,850000,850000
+9,2026-02-11,Impresora,Tecnología,Cartagena,2,620000,1240000
+10,2026-02-15,Tablet,Tecnología,,3,950000,2850000
+11,2026-02-20,Celular,Tecnología,Montería,2,, 
+12,2026-02-25,Router,Tecnología,Sincelejo,6,135000,810000
+13,2026-03-03,Proyector,Tecnología,Montería,1,1250000,1250000
+14,2026-03-08,Memoria USB,Tecnología,,10,35000,350000
+15,2026-03-12,Disco SSD,Tecnología,Cartagena,4,280000,1120000
+16,2026-03-18,Webcam,Tecnología,Montería,,180000,180000
+17,2026-03-22,Micrófono,Tecnología,Sincelejo,3,210000,630000
+18,2026-03-27,Parlante,Tecnología,Montería,2,160000,320000
+19,2026-04-02,Smartwatch,Tecnología,,5,230000,1150000
+20,2026-04-07,Cargador,Tecnología,Cartagena,8,, 
