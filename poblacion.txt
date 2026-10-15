@@ -1,0 +1,101 @@
+﻿NombreMunicipio,CodigoMunicipio,Ubicación,NombreRegion,CodigoRegion,Anio,CausaMortalidad,TipoPoblacionObjetivo,NumeroPoblacionObjetivo,NumeroCasos
+Apartadó,05566,"POINT (-75.6734 6.7265)",URABA,9,2019,Suicidios,Poblacion total,2358330,71
+Amalfi,05376,"POINT (-75.3433 6.6311)",NORDESTE,4,,Suicidios,Poblacion total,,37
+Medellín,05343,,VALLE DE ABURRA,1,2020,Suicidios,Poblacion total,1502942,
+Amagá,05466,"POINT (-75.8041 6.7235)",SUROESTE,8,2018,Suicidios,Poblacion total,1467689,52
+,05921,"POINT (-75.2021 6.4843)",OCCIDENTE,6,2012,Suicidios,Poblacion total,2057555,1
+Bello,05848,"POINT (-75.8892 6.7863)",VALLE DE ABURRA,1,2018,Suicidios,Poblacion total,1404107,39
+Caldas,05443,"POINT (-75.9006 6.3568)",VALLE DE ABURRA,1,,Suicidios,Poblacion total,980732,64
+Alejandría,05127,"POINT (-75.4561 6.7184)",ORIENTE,7,2005,Suicidios,Poblacion total,,4
+Bello,05838,"POINT (-75.9154 6.6056)",VALLE DE ABURRA,1,2009,Suicidios,Poblacion total,491570,103
+,05790,"POINT (-75.8035 6.2484)",URABA,9,2013,Suicidios,Poblacion total,2318121,41
+Apartadó,05135,"POINT (-75.4242 6.5636)",URABA,9,2011,Suicidios,Poblacion total,975548,142
+Caldas,05739,"POINT (-75.4627 6.6450)",VALLE DE ABURRA,1,2010,Suicidios,Poblacion total,2063083,27
+Caldas,05555,"POINT (-75.8526 6.9901)",VALLE DE ABURRA,1,2017,Suicidios,Poblacion total,1629880,2
+Andes,05663,"POINT (-75.2853 6.7585)",SUROESTE,8,2013,Suicidios,Poblacion total,2217603,112
+Abejorral,05783,"POINT (-75.6249 6.6172)",ORIENTE,7,2006,Suicidios,Poblacion total,1402804,128
+Abejorral,05610,"POINT (-75.8777 6.1197)",ORIENTE,7,2010,Suicidios,Poblacion total,2467604,
+Amagá,05919,"POINT (-75.3911 6.2734)",SUROESTE,8,2008,Suicidios,Poblacion total,912681,146
+Caldas,05445,"POINT (-75.1262 6.7287)",VALLE DE ABURRA,1,2022,Suicidios,Poblacion total,1858926,41
+Amalfi,05758,"POINT (-75.8400 6.4170)",NORDESTE,4,2009,Suicidios,Poblacion total,1243082,8
+Abejorral,05572,,ORIENTE,7,2012,Suicidios,Poblacion total,793971,103
+Caldas,05376,"POINT (-75.7944 6.5493)",VALLE DE ABURRA,1,2008,Suicidios,Poblacion total,1140848,67
+Alejandría,05537,"POINT (-75.4436 6.9754)",ORIENTE,7,2018,Suicidios,Poblacion total,118381,37
+Abejorral,05291,"POINT (-75.8683 6.5642)",ORIENTE,7,2009,Suicidios,Poblacion total,731903,146
+Alejandría,05799,"POINT (-75.1606 6.4170)",ORIENTE,7,2013,Suicidios,Poblacion total,1933760,45
+Abriaquí,05785,"POINT (-75.6444 6.2895)",OCCIDENTE,6,2014,Suicidios,Poblacion total,1991173,57
+Abriaquí,05576,"POINT (-75.8343 6.8206)",OCCIDENTE,6,2021,Suicidios,Poblacion total,160823,
+,05499,"POINT (-75.3368 6.7655)",URABA,9,,Suicidios,Poblacion total,1907324,19
+Andes,05712,"POINT (-75.4854 6.3491)",SUROESTE,8,2021,Suicidios,Poblacion total,1027715,
+Amagá,05755,"POINT (-75.8079 6.8987)",SUROESTE,8,2019,Suicidios,Poblacion total,1262386,54
+Medellín,05740,"POINT (-75.8560 6.2931)",VALLE DE ABURRA,1,2009,Suicidios,Poblacion total,185062,126
+Bello,05889,,VALLE DE ABURRA,1,2017,Suicidios,Poblacion total,2472784,15
+Amalfi,05440,"POINT (-75.7617 6.3479)",NORDESTE,4,2019,Suicidios,Poblacion total,80781,3
+Amalfi,05707,"POINT (-75.7905 6.3489)",NORDESTE,4,2008,Suicidios,Poblacion total,1643249,137
+Abejorral,05790,"POINT (-75.5000 6.6052)",ORIENTE,7,2016,Suicidios,Poblacion total,2040449,123
+Abriaquí,05701,"POINT (-75.9967 6.7748)",OCCIDENTE,6,2022,Suicidios,Poblacion total,1675250,80
+Bello,05291,"POINT (-75.6988 6.3504)",VALLE DE ABURRA,1,2008,Suicidios,Poblacion total,518771,137
+Apartadó,05378,"POINT (-75.4766 6.6644)",URABA,9,2009,Suicidios,Poblacion total,1357531,112
+Andes,05175,"POINT (-75.1395 6.8400)",SUROESTE,8,2017,Suicidios,Poblacion total,68234,2
+Amalfi,05583,"POINT (-75.8192 6.6588)",NORDESTE,4,2009,Suicidios,Poblacion total,1041458,139
+Medellín,05108,"POINT (-75.5846 6.7731)",VALLE DE ABURRA,1,2009,Suicidios,Poblacion total,40102,1
+Medellín,05128,"POINT (-75.3681 6.2540)",VALLE DE ABURRA,1,2013,Suicidios,Poblacion total,2454401,26
+Apartadó,05514,"POINT (-75.4141 6.8419)",URABA,9,2017,Suicidios,Poblacion total,1928275,35
+Alejandría,05928,"POINT (-75.7619 6.9647)",ORIENTE,7,2017,Suicidios,Poblacion total,792141,57
+Abejorral,05928,,ORIENTE,7,2005,Suicidios,Poblacion total,1427541,57
+Alejandría,05612,"POINT (-75.6645 6.4486)",ORIENTE,7,2022,Suicidios,Poblacion total,,48
+Bello,05797,"POINT (-75.7819 6.4719)",VALLE DE ABURRA,1,2010,Suicidios,Poblacion total,2487195,116
+Abejorral,05352,"POINT (-75.2581 6.8714)",ORIENTE,7,2013,Suicidios,Poblacion total,319428,
+Abriaquí,05338,"POINT (-75.3193 6.9415)",OCCIDENTE,6,2017,Suicidios,Poblacion total,527303,32
+Abejorral,05922,"POINT (-75.1404 6.9175)",ORIENTE,7,2006,Suicidios,Poblacion total,272846,128
+Amalfi,05977,"POINT (-75.8245 6.7600)",NORDESTE,4,2009,Suicidios,Poblacion total,1055385,82
+Abriaquí,05153,"POINT (-75.1770 6.5363)",OCCIDENTE,6,2012,Suicidios,Poblacion total,510153,117
+Apartadó,05202,,URABA,9,2019,Suicidios,Poblacion total,2100404,84
+Alejandría,05858,"POINT (-75.6115 6.5637)",ORIENTE,7,2006,Suicidios,Poblacion total,2455752,78
+Abejorral,05225,"POINT (-75.6569 6.5300)",ORIENTE,7,2009,Suicidios,Poblacion total,2322929,5
+Andes,05294,"POINT (-75.9472 6.2887)",SUROESTE,8,2020,Suicidios,Poblacion total,1074647,131
+Abriaquí,05623,"POINT (-75.7981 6.7376)",OCCIDENTE,6,2014,Suicidios,Poblacion total,1087244,
+Caldas,05147,"POINT (-75.7493 6.3878)",VALLE DE ABURRA,1,2019,Suicidios,Poblacion total,1224869,55
+Bello,05315,"POINT (-75.9150 6.3125)",VALLE DE ABURRA,1,2018,Suicidios,Poblacion total,391593,27
+Apartadó,05838,"POINT (-75.8673 6.7949)",URABA,9,2018,Suicidios,Poblacion total,855499,17
+Abejorral,05624,"POINT (-75.5632 6.7288)",ORIENTE,7,2011,Suicidios,Poblacion total,1450021,
+Andes,05653,"POINT (-75.7891 6.7738)",SUROESTE,8,2006,Suicidios,Poblacion total,539198,7
+Andes,05681,"POINT (-75.2460 6.2733)",SUROESTE,8,2009,Suicidios,Poblacion total,423240,32
+Apartadó,05139,"POINT (-75.9434 6.3590)",URABA,9,2013,Suicidios,Poblacion total,670406,130
+Andes,05946,"POINT (-75.6560 6.5289)",SUROESTE,8,2021,Suicidios,Poblacion total,2211373,61
+Amagá,05753,"POINT (-75.3048 6.7233)",SUROESTE,8,2005,Suicidios,Poblacion total,956480,139
+Abejorral,05749,"POINT (-75.1260 6.7038)",ORIENTE,7,2010,Suicidios,Poblacion total,716743,9
+Abejorral,05680,"POINT (-75.4490 6.8984)",ORIENTE,7,2013,Suicidios,Poblacion total,2192222,37
+Alejandría,05939,"POINT (-75.6951 6.6468)",ORIENTE,7,2007,Suicidios,Poblacion total,1094501,59
+Alejandría,05501,"POINT (-75.2065 6.3136)",ORIENTE,7,2018,Suicidios,Poblacion total,1857619,88
+Apartadó,05920,"POINT (-75.2248 6.5033)",URABA,9,2019,Suicidios,Poblacion total,1452976,144
+Bello,05577,"POINT (-75.6788 6.6408)",VALLE DE ABURRA,1,2014,Suicidios,Poblacion total,345054,110
+Apartadó,05964,"POINT (-75.5612 6.2865)",URABA,9,2005,Suicidios,Poblacion total,1416397,85
+Bello,05784,"POINT (-75.3371 6.3891)",VALLE DE ABURRA,1,2009,Suicidios,Poblacion total,128108,46
+Amalfi,05445,"POINT (-75.7166 6.1814)",NORDESTE,4,2015,Suicidios,Poblacion total,390349,73
+Bello,05226,"POINT (-75.4876 6.6959)",VALLE DE ABURRA,1,2015,Suicidios,Poblacion total,2053531,99
+Bello,05445,"POINT (-75.6732 6.4476)",VALLE DE ABURRA,1,2013,Suicidios,Poblacion total,2278106,0
+,05412,"POINT (-75.9393 6.4507)",VALLE DE ABURRA,1,2019,Suicidios,Poblacion total,2429540,52
+Abriaquí,05975,"POINT (-75.4600 6.7783)",OCCIDENTE,6,2011,Suicidios,Poblacion total,1176737,
+Abejorral,05255,"POINT (-75.5757 6.3713)",ORIENTE,7,2021,Suicidios,Poblacion total,956652,62
+Andes,05990,"POINT (-75.2759 6.3482)",SUROESTE,8,2012,Suicidios,Poblacion total,1040896,70
+Bello,05212,"POINT (-75.6490 6.7645)",VALLE DE ABURRA,1,2022,Suicidios,Poblacion total,428752,77
+Apartadó,05479,"POINT (-75.2481 6.7305)",URABA,9,2007,Suicidios,Poblacion total,1129199,9
+Caldas,05328,"POINT (-75.8221 6.4310)",VALLE DE ABURRA,1,2007,Suicidios,Poblacion total,7821,7
+Bello,05264,"POINT (-75.5547 6.6619)",VALLE DE ABURRA,1,2018,Suicidios,Poblacion total,610746,143
+Abejorral,05613,"POINT (-75.2308 6.5177)",ORIENTE,7,2020,Suicidios,Poblacion total,2009954,35
+Apartadó,05833,"POINT (-75.1804 6.2279)",URABA,9,2016,Suicidios,Poblacion total,2477539,4
+Abejorral,05826,"POINT (-75.3106 6.9173)",ORIENTE,7,,Suicidios,Poblacion total,1492077,119
+Caldas,05765,"POINT (-75.3541 6.3051)",VALLE DE ABURRA,1,2011,Suicidios,Poblacion total,,21
+Amalfi,05252,"POINT (-75.8184 6.6796)",NORDESTE,4,2014,Suicidios,Poblacion total,1482035,40
+Andes,05575,"POINT (-75.9646 6.3969)",SUROESTE,8,2012,Suicidios,Poblacion total,1228476,52
+Amalfi,05878,"POINT (-75.5124 6.9340)",NORDESTE,4,2008,Suicidios,Poblacion total,2055490,25
+Abriaquí,05388,"POINT (-75.7212 6.8479)",OCCIDENTE,6,2019,Suicidios,Poblacion total,1317573,149
+Abriaquí,05740,"POINT (-75.3343 6.6136)",OCCIDENTE,6,2013,Suicidios,Poblacion total,1738857,72
+Amalfi,05374,"POINT (-75.8009 6.7667)",NORDESTE,4,2016,Suicidios,Poblacion total,1550459,101
+Abejorral,05180,"POINT (-75.6895 6.3708)",ORIENTE,7,2019,Suicidios,Poblacion total,701983,82
+Medellín,05500,"POINT (-75.5873 6.5806)",VALLE DE ABURRA,1,2013,Suicidios,Poblacion total,,31
+Caldas,05322,"POINT (-75.2500 6.7737)",VALLE DE ABURRA,1,2020,Suicidios,Poblacion total,206615,
+Bello,05282,"POINT (-75.1130 6.3983)",VALLE DE ABURRA,1,2007,Suicidios,Poblacion total,561723,44
+Abriaquí,05269,,OCCIDENTE,6,2005,Suicidios,Poblacion total,1013727,107
+Apartadó,05847,"POINT (-75.3032 6.9436)",URABA,9,2018,Suicidios,Poblacion total,542659,28
